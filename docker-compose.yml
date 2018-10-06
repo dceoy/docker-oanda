@@ -1,0 +1,11 @@
+---
+version: '3'
+
+services:
+  oanda:
+    container_name: oanda
+    build:
+      context: .
+    image: dceoy/oanda:latest
+    entrypoint:
+      - python
