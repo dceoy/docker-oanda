@@ -1,4 +1,4 @@
-FROM python:latest
+FROM python:slim
 
 ADD https://github.com/oanda/oandapy/archive/master.tar.gz /tmp/oandapy.tar.gz
 
