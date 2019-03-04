@@ -1,7 +1,7 @@
 docker-oanda
 ============
 
-Dockerfile for Oanda
+Dockerfile for Oanda v20-python
 
 Docker image
 ------------
